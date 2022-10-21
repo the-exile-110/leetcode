@@ -1,4 +1,4 @@
-package algorithms
+package main
 
 func intToRoman(num int) string {
 	roman := []string{"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"}

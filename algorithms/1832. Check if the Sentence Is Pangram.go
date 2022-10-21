@@ -1,4 +1,4 @@
-package algorithms
+package main
 
 /*
 pangram 是英文字母中的每个字母至少出现一次的句子。
