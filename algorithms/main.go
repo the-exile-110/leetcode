@@ -1,7 +1,10 @@
 package main
 
 func main() {
-	input := []int{1, 2, 3, 1}
+	const (
+		s = "ADOBECODEBANC"
+		t = "ABC"
+	)
 
-	containsNearbyDuplicate(input, 3)
+	minWindow(s, t)
 }
